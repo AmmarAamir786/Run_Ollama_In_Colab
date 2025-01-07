@@ -15,15 +15,16 @@ Ollama is a powerful tool to run and manage large language models with ease. You
 To run Ollama locally, follow these steps:
 
 1. **Install Ollama In Your System**  
-   For Windows:
-    ▪ Download the installer from the Ollama website:
-    ▪ https://ollama.com/download/windows
-   For Linux:
-    ▪ Run the following command in your terminal:
+- For Windows:
+    - Download the installer from the Ollama website:
+    - https://ollama.com/download/windows
+    
+- For Linux:
+    - Run the following command in your terminal:
     ```bash
-    ▪ curl -fsSL https://ollama.com/install.sh | sh
+    - curl -fsSL https://ollama.com/install.sh | sh
     ```
-    ▪ This command downloads and installs Ollama on your system.
+    - This command downloads and installs Ollama on your system.
 
 1. **Run a Model**  
    Use the command:
