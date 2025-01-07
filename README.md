@@ -18,11 +18,11 @@ To run Ollama locally, follow these steps:
 - For Windows:
     - Download the installer from the Ollama website:
     - https://ollama.com/download/windows
-    
+
 - For Linux:
     - Run the following command in your terminal:
     ```bash
-    - curl -fsSL https://ollama.com/install.sh | sh
+    curl -fsSL https://ollama.com/install.sh | sh
     ```
     - This command downloads and installs Ollama on your system.
 
@@ -71,6 +71,5 @@ We welcome contributions to improve this guide or add new features. Please creat
 ## License
 This project is open-source and licensed under the [MIT License](LICENSE).
 
-```
 
-Happy Learning! 🚀
+### Happy Learning! 🚀
