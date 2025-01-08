@@ -55,7 +55,7 @@ For those who prefer a cloud-based approach, you can set up and run Ollama in Go
 ## Contact Us
 If you have questions or want to connect, feel free to reach out:
 
-- **Bilal Akhtar**  
+- **Muhammad Bilal Akhtar**  
   - GitHub: [BilalAkhtar88](https://github.com/BilalAkhtar88)  
   - LinkedIn: [Muhammad Bilal Akhtar](https://www.linkedin.com/in/muhammad-bilal-akhtar-a48265263/)
 
